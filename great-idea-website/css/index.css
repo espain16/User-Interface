@@ -64,3 +64,78 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body{
+	width: 880px;
+	margin:auto;
+}
+header{
+	margin-bottom: 50px;
+}
+header nav{
+	display: inline-block;
+	 width: 691px;
+	vertical-align:top;
+
+}
+ header nav a{
+color:gray;
+text-decoration: none;
+padding: 10px;
+}
+
+.second-header .top{
+	display: inline-block;
+	width: 49.8%;
+	vertical-align: top;
+	padding: 20px;
+
+
+}
+.second-header .top h1{
+	font-size: 73px;
+	margin-top: 50px;
+	text-align: center;
+
+
+}
+.second-header button{
+	margin-left: 96px;
+	text-align: center;
+	border-radius: 10px;
+	font-size: 25px;
+	vertical-align:top;
+	padding: 10px 42px;
+
+
+}
+.top-container{
+	border-top: 1px solid black;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.top-container h2{
+	margin-top: 40px;
+}
+
+.top-container .top-bottom {
+display: inline-block;
+width: 48%;
+
+
+}
+.spv .bottom-content{
+	margin-top:40px;
+	display: inline-block;
+	width: 32%;
+	padding: 10px;
+	border-bottom: 1px solid black;
+}
+footer{
+	margin-top: 40px;
+}
+footer address p{
+margin: 20px 0;
+}
+h6{
+	text-align: center;
+}
